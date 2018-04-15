@@ -1,4 +1,4 @@
-/*Kimberly White
+/*Kimberly Miller
 *CS 2265-Advanced Programming 1
 *Program #3-Java application to calculate the sum of different quantities 
             of miscellaneous retail items with user interaction.
